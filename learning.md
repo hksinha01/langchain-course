@@ -68,3 +68,9 @@
     ReAct Agent Architecture (1st agent): Langchain and Langraphs comes with prebuild ReAct agent which we can use and customize and it can use tools, they can handle compact workflow and mantain state over long run flow
             
         Query ---> Thinking --> Action --> Tool --> Observation ---> Thinking ---> Answer
+
+## Langchain Hub
+    
+    It is the platform in langchain  ecosystem to share and exploring prompts, chain agents and workflows . It is also used as platform to get resources.
+    Like ReAct Prompt
+
